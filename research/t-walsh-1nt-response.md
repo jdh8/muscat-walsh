@@ -8,6 +8,10 @@ The follow-up investigation of **club transfers and GF relays** is in this
 same note, below the survey. Source agreements and proposed Muscat adaptations
 are distinguished throughout.
 
+The **both-major response**, including Lia's current exact-4–4 description
+and the distinction from a 4+–4+ treatment, is examined in
+[a separate follow-up](t-walsh-both-majors.md).
+
 ## Documented alternatives
 
 | Treatment | Exact example | Relationship to 1♠ and source |
@@ -18,6 +22,7 @@ are distinguished throughout.
 | Transfer to clubs | Normally **5+ clubs**, weak hands included; **forcing**, with 2♣ available as the final contract | Ron Beall's Toucan article uses 1♠ to suggest 1NT and 2♣ to show diamonds. A responder intending to bid 3NT from their own side can also start 1NT, so the club-length description has an artificial exception. [Author's explanation](https://www.bridgeworld.com/pages/readingroom/esoterica/toucan.html). |
 | Diamond-showing, limited | **5–9 HCP, 5+ diamonds** | In a firsthand January 2016 report, “ahydra” gives 1♠ as invitational-or-better diamonds or a 5–9 notrump catchall. This is a personal agreement in a forum, not a full published system. [BBO, post #4](https://www.bridgebase.com/forums/topic/73411-12-14-nt-opens-with-transfer-walsh/page__p__874852). |
 | Both majors | **5–4 in either order** | Ray Green's February 2016 scheme has a no-major 1♠. It separately assigns 2♣ to 4–4 majors with 11+ and 2♦ to 5–5 majors. The public write-up does **not** specify a numerical range or forcing status for the direct 1NT response. [Author's club article](https://www.bridgewebs.com/brunton/page41.html). |
+| Both majors, limited | **6–10 HCP, exactly 4♥ and 4♠** | IntoBridge's current Lia T-Walsh settings describe this optional treatment; stronger 4–4 hands start 1♦. The setting does **not** document continuations or establish actual robot behavior. [Official settings asset](https://play.intobridge.com/4636.8a7d660695a46547.js); [evidence and implications](t-walsh-both-majors.md). |
 
 The Fallenius–Welland invitation is natural and limited; “invitational” should
 not be read as forcing to game. Their 11–13 response range belongs to their
@@ -196,11 +201,13 @@ Its balanced ladder is 12–14 / 15–17 / 18–20.
 | Who declares eventual notrump? | Responder | Responder |
 | Most important Muscat adaptation | Strong-opener actions and the weak/invitational club split | Complete answers for Muscat's shapes and strength ranges |
 
-**My current recommendation is to develop the club transfer first** if the
-priority is a manageable extension of the present response table. The GF
-relay merits choosing deliberately as a larger constructive-bidding project.
-The strongest accessible detailed relay reference is useful for studying the
-mechanism, but does not yet supply a complete Muscat agreement.
+**The choice depends on which hands need help:** the club transfer organizes
+club hands, while a limited both-major response describes weak major hands
+immediately. Lia's documented exact-4–4 option is narrower than a 4+–4+
+treatment; the latter needs additional fit-finding agreements. See the
+[both-major follow-up](t-walsh-both-majors.md). The GF relay remains a larger
+constructive-bidding project. None of the checked sources yet supplies a
+complete continuation structure adapted to Muscat for these three options.
 
 This note records research and design implications; the system definitions
 in `src/1C.md` have not been changed.
