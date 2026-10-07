@@ -1,16 +1,13 @@
 # ![Muscat Walsh](favicon-7c6359c1.svg)
 
 Muscat Walsh is a natural 5542 system with Transfer Walsh responses to 1♣.
-Everything else is standard 2/1, so only the 1♣ opening is documented.
+The [openings](Openings.md) follow Dutch Doubleton rather than standard 2/1:
+1♣ carries every balanced hand outside 15--17, so 2♣ is the only strong
+opening.  The whole system is still natural.
 
 - **1♣ - 1♦!** = 4+♥
 - **1♣ - 1♥!** = 4+♠
 - **1♣ - 1♠!** = transfer to 1NT, no 4-card major
-
-[Walsh](https://en.wikipedia.org/wiki/Walsh_convention) means responder bypasses
-diamonds to show a 4-card major unless game-forcing.  Transferring the majors
-lets opener complete with exactly 3-card support, so we get a
-[support double for free](1C/1R.md) even without intervention.
 
 This book fits the following regulations:
 
