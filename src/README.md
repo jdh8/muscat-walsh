@@ -1,13 +1,12 @@
 # ![Muscat Walsh](favicon-7c6359c1.svg)
 
 Muscat Walsh is a natural 5542 system with Transfer Walsh responses to 1♣.
-The [openings](Openings.md) follow Dutch Doubleton rather than standard 2/1:
-1♣ carries every balanced hand outside 15--17, so 2♣ is the only strong
-opening.  The whole system is still natural.
+The [openings](Openings.md) are closer to Dutch Doubleton rather than standard
+2/1.  The whole system is still natural.
 
 - **1♣ - 1♦!** = 4+♥
 - **1♣ - 1♥!** = 4+♠
-- **1♣ - 1♠!** = transfer to 1NT, no 4-card major
+- **1♣ - 1♠!** = 0--3♠, 0--3♥
 
 This book fits the following regulations:
 
