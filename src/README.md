@@ -10,7 +10,7 @@ Everything else is standard 2/1, so only the 1♣ opening is documented.
 [Walsh](https://en.wikipedia.org/wiki/Walsh_convention) means responder bypasses
 diamonds to show a 4-card major unless game-forcing.  Transferring the majors
 lets opener complete with exactly 3-card support, so we get a
-[support double for free](1C/Competition.md) even without intervention.
+[support double for free](1C/1R.md) even without intervention.
 
 This book fits the following regulations:
 
@@ -36,7 +36,6 @@ This book follows *Strawberry Polish Club* for [hand evaluation][eval],
 
 ### Transfer Walsh
 
-- Chen-Pang He.  [競叫時的 Transfer Walsh](https://jdh8.com/transfer-walsh-in-competition/)
 - [Sjoert Brink & Bas Drijver](https://www.bridge.nl/wp-content/uploads/2023/01/Lb1_Brink-Drijver.pdf).
   (WBF convention card)
 - Krzysztof Jassem & Tomek Brus.  *Polish Club 2020: Expert*.  ISBN 978-1771402248
