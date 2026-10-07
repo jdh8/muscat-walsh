@@ -1,8 +1,7 @@
 # ![Muscat Walsh](favicon-7c6359c1.svg)
 
 Muscat Walsh is a natural 5542 system with Transfer Walsh responses to 1♣.
-The [openings](Openings.md) are closer to Dutch Doubleton rather than standard
-2/1.  The whole system is still natural.
+Everything else is standard 2/1, so only the 1♣ opening is documented.
 
 - **1♣ - 1♦!** = 4+♥
 - **1♣ - 1♥!** = 4+♠
