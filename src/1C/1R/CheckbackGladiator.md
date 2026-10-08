@@ -78,7 +78,7 @@ are invitations, and 3x are slam tries.
 | 2NT | BAL 12--14, 2--3♥, 2=♠
 | 3♠  | 15--17, 3=♠
 
-### Responder's 1♠
+### Second response 1♠
 
 | 1♣ - 1♦ -<br>1♥ - 1♠ - | |
 |-----|-|
