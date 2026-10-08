@@ -1,7 +1,9 @@
 # ![Muscat Walsh](favicon-7c6359c1.svg)
 
-Muscat Walsh is a natural 5542 system with Transfer Walsh responses to 1♣.
-Everything else is standard 2/1, so only the 1♣ opening is documented.
+Muscat Walsh is a natural 5542 system with [Transfer Walsh][t-walsh] responses
+to 1♣.  Everything else is standard 2/1, so only the 1♣ opening is documented.
+
+[t-walsh]: https://en.wikipedia.org/wiki/Transfer_Walsh
 
 - **1♣ - 1♦!** = 4+♥
 - **1♣ - 1♥!** = 4+♠

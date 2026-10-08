@@ -3,6 +3,6 @@
 [Introduction](README.md)
 
 - [Openings](Openings.md)
-- [T-Walsh 1♣](1C.md)
+- [Transfer Walsh 1♣](1C.md)
   - [Red transfers 1♦♥](1C/1R.md)
     - [Checkback Gladiator](1C/1R/CheckbackGladiator.md)
