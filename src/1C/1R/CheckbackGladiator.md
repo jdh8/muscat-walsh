@@ -3,10 +3,13 @@
 ## After the completion
 
 The completion is non-forcing.  Responder passes with 0--7, as the 1-level is
-low enough to survive a 4--2 fit.  Other rebids are Checkback Gladiator, an XYZ
-variant.  2♣ is a one-round force: a constructive signoff, an invitation, or a
-special game force.  2♦ is an artificial game-forcing checkback.  Natural 2x
-are invitations, and 3x are slam tries.
+low enough to survive a 4--2 fit.  Other rebids adapt Strawberry Polish Club's
+[Checkback Gladiator][strawberry], an XYZ variant.  2♣ is a one-round force:
+a constructive signoff, an invitation, or a special game force.  2♦ is an
+artificial game-forcing checkback.  Natural 2x are invitations, and 3x are
+slam tries.
+
+[strawberry]: https://polish.club/1C/1M/CheckbackGladiator.html
 
 | 1♣ - 1♦ -<br>1♥ - | |
 |------|-|

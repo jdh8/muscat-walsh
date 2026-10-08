@@ -24,18 +24,18 @@ This book follows *Strawberry Polish Club* for [hand evaluation][eval],
 
 ## References
 
-- Jan Eric Larsson.  *Good, Better, Best: A comparison of bridge bidding
-  systems and conventions by computer simulation*.  ISBN 978-1771402415
-- Thomas Andrews.  [Thomas's Bridge Fantasia](https://bridge.thomasoandrews.com/bridge/valuations/)
-- Bridge Base.  [GIB Bid Descriptions](https://www.bridgebase.com/doc/gib_descriptions.php)
+- Chen-Pang He.  [Strawberry Polish Club](https://polish.club/).
+  Hand evaluation, notation, and
+  [Checkback Gladiator](https://polish.club/1C/1M/CheckbackGladiator.html).
+- Danny Molenaar & Tim Verbeek.  [WBF convention card][mv].
+  Transfer completion with a minimum balanced hand and the 18--20 1NT rebid.
+- Guus Schreiber.  [De systeemkaart van Danny Molenaar en Tim Verbeek][imp].
+  *IMP*, July/August 2025, pp. 30--32.  Transfer responses and opener's
+  rebids; this version uses 18--19 for the 1NT rebid.
+- Richard Granville.  [Is Fantunes still a good bidding system?][ric]
+  *Bridge Winners*, 18 September 2015.  The rationale quoted in the
+  [T-Walsh introduction](1C.md).
 
-### Transfer Walsh
-
-- [Sjoert Brink & Bas Drijver](https://www.bridge.nl/wp-content/uploads/2023/01/Lb1_Brink-Drijver.pdf).
-  (WBF convention card)
-- Krzysztof Jassem & Tomek Brus.  *Polish Club 2020: Expert*.  ISBN 978-1771402248
-
-### My other bidding systems
-
-- [Strawberry Polish Club](https://polish.club)
-- [Watermelon Dutch Doubleton](https://jdh8.github.io/watermelon-dutch-doubleton/)
+[mv]: https://www.bridgebond.nl/download.php?file=Wedstrijdzaken%2FSysteemkaarten%2FMK2526%2FNETH_OPEN_Molenaar_Verbeek+version+without+convention+names.pdf
+[imp]: https://cdnc.heyzine.com/files/uploaded/v3/95b379df2f94d1433ff82969af2dfd35c83e1535.pdf#page=30
+[ric]: https://bridgewinners.com/article/view/is-fantunes-still-a-good-bidding-system/
