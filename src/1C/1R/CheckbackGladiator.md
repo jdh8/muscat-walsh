@@ -10,7 +10,6 @@ are invitations, and 3x are slam tries.
 
 | 1♣ - 1♦ -<br>1♥ - | |
 |------|-|
-| P    | 0--7
 | 1♠   | F, 8+, 4=♠
 | 1NT  | NF, 8--10, 0--3♠
 | 2♣!  | CB Gladiator, F1
@@ -24,7 +23,6 @@ are invitations, and 3x are slam tries.
 
 | 1♣ - 1♥ -<br>1♠ - | |
 |------|-|
-| P    | 0--7
 | 1NT  | NF, 8--10
 | 2♣!  | CB Gladiator, F1
 | 2♦!  | FG CB
@@ -97,7 +95,6 @@ opener shows support rather than a maximum, since 1NT is a single range.
 
 | 1♣ - 1♦ -<br>1NT - | |
 |----------|-|
-| P        | 0--4
 | 2♣!      | CB Gladiator, F1
 | 2♣ - 2♦! | P/C
 | 2♣ - 2♥  | 3=♥
@@ -113,7 +110,6 @@ opener shows support rather than a maximum, since 1NT is a single range.
 
 | 1♣ - 1♥ -<br>1NT - | |
 |----------|-|
-| P        | 0--4
 | 2♣!      | CB Gladiator, F1
 | 2♣ - 2♦! | P/C
 | 2♣ - 2♥  | 4=♥
