@@ -43,7 +43,7 @@ checkback.  Natural 2M are invitations, and 3x are slam tries.
 
 ### The 2♣ checkback
 
-| 1♣ - 1♦♥ -<br>1♥♠ - 2♣ - | |
+| 1♣ - 1R -<br>1M - 2♣ - | R + 1 = M |
 |-----|-|
 | 2♦! | P/C, 11--14
 | 2M  | 15--17, 3=M
