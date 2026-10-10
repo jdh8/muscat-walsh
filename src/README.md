@@ -5,9 +5,9 @@ to 1♣.  Everything else is standard 2/1, so only the 1♣ opening is documente
 
 [t-walsh]: https://en.wikipedia.org/wiki/Transfer_Walsh
 
-- **1♣ - 1♦!** = 4+♥
-- **1♣ - 1♥!** = 4+♠
-- **1♣ - 1♠!** = 0--3♠, 0--3♥
+- **1♣ - 1♦** = 4+♥
+- **1♣ - 1♥** = 4+♠
+- **1♣ - 1♠** = 0--3♠, 0--3♥
 
 This book fits the following regulations:
 

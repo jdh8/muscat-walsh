@@ -132,6 +132,6 @@ opener shows support rather than a maximum, since 1NT is a single range.
 | 4♣♦♥!    | SPL, 0--1#, 6+♠
 
 After 2♣ - 2♦, responder continues as after the completion, but invitations
-are 5--6.  Over 2♦!, opener answers as after the completion without the
+are 5--6.  Over 2♦, opener answers as after the completion without the
 strength split: 2M shows 3 cards, 2 of the other major shows 4 cards, and 2NT
 denies both.
