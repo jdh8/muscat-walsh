@@ -1,5 +1,12 @@
 # Checkback Gladiator
 
+I use the name Checkback Gladiator for [a version of two-way checkback
+circulated at BTU, documented on PTT as early as 1999.][ptt]  Its defining
+feature is that direct 2M rebids are invitational, while weak continuations and
+the remaining invitations go through the 2♣ - 2♦ puppet.
+
+[ptt]: https://www.ptt.cc/man/BridgeClub/D6D1/D49B/D130/M.924860463.A.html
+
 ## After the completion
 
 The completion is non-forcing.  Responder passes with 0--7, as the 1-level is
