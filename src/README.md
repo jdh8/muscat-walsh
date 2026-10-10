@@ -28,7 +28,7 @@ This book follows *Strawberry Polish Club* for [hand evaluation][eval],
 
 - Chen-Pang He.  [Strawberry Polish Club](https://polish.club/).
   Hand evaluation, notation, and
-  [Checkback Gladiator](https://polish.club/1C/1M/CheckbackGladiator.html).
+  [Checkback Gladiator](https://polish.club/CheckbackGladiator.html).
 - Danny Molenaar & Tim Verbeek.  [WBF convention card][mv].
   Transfer completion with a minimum balanced hand and the 18--20 1NT rebid.
 - Guus Schreiber.  [De systeemkaart van Danny Molenaar en Tim Verbeek][imp].

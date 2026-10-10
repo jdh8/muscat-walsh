@@ -1,22 +1,20 @@
 # Checkback Gladiator
 
-I use the name Checkback Gladiator for [a version of two-way checkback
-circulated at BTU, documented on PTT as early as 1999.][ptt]  Its defining
-feature is that direct 2M rebids are invitational, while weak continuations and
-the remaining invitations go through the 2♣ - 2♦ puppet.
+Responder rebids by [Checkback Gladiator][strawberry], my XYZ variant with
+invitational direct 2M rebids.  That chapter covers the scheme, the name, and
+its history.  This one gives the T-Walsh tables, where the transfer response
+shifts strength from responder to opener: responder passes the completion
+more often, and 1♠ is available as a second response.
 
-[ptt]: https://www.ptt.cc/man/BridgeClub/D6D1/D49B/D130/M.924860463.A.html
+[strawberry]: https://polish.club/CheckbackGladiator.html
 
 ## After the completion
 
 The completion is non-forcing.  Responder passes with 0--7, as the 1-level is
 low enough to survive a 4--2 fit.  Other rebids adapt Strawberry Polish Club's
-[Checkback Gladiator][strawberry], an XYZ variant.  2♣ is a one-round force:
-a constructive signoff, an invitation, or a special game force.  2♦ is an
-artificial game-forcing checkback.  Natural 2x are invitations, and 3x are
-slam tries.
-
-[strawberry]: https://polish.club/1C/1M/CheckbackGladiator.html
+Checkback Gladiator.  2♣ is a one-round force: a constructive signoff, an
+invitation, or a special game force.  2♦ is an artificial game-forcing
+checkback.  Natural 2x are invitations, and 3x are slam tries.
 
 | 1♣ - 1♦ -<br>1♥ - | |
 |------|-|
