@@ -44,7 +44,7 @@ checkback.  Natural 2M are invitations, and 3x are slam tries.
 ### The 2♣ checkback
 
 | 1♣ - 1R -<br>1M - 2♣ - | M = R + 1 |
-|-----|-|
+|-----|---|
 | 2♦! | P/C, 11--14
 | 2M  | 15--17, 3=M
 
@@ -75,6 +75,7 @@ checkback.  Natural 2M are invitations, and 3x are slam tries.
 | 2♥  | 11--14, 3=♥
 | 2♠  | BAL 12--14, 4=♠, 2=♥
 | 2NT | BAL 12--14, 2--3♠, 2=♥
+| 3♣  | 15--17, 3=♥, 6+♣
 | 3♥  | 15--17, 3=♥
 
 | 1♣ - 1♥ -<br>1♠ - 2♦ - | |
@@ -82,6 +83,7 @@ checkback.  Natural 2M are invitations, and 3x are slam tries.
 | 2♥  | BAL 12--14, 4=♥, 2=♠
 | 2♠  | 11--14, 3=♠
 | 2NT | BAL 12--14, 2--3♥, 2=♠
+| 3♣  | 15--17, 3=♠, 6+♣
 | 3♠  | 15--17, 3=♠
 
 ### Second response 1♠
