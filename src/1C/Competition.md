@@ -1,0 +1,220 @@
+# Competitive bidding
+
+Transfer Walsh gives us a support double for free: opener completes the
+transfer with 3-card support even when RHO does not compete.  I generalize it
+to all non-jump responses to end the debate between standard and negative free
+bids.
+
+- 1♦ or (1♦) X: transfer, 4+♥
+- 1♥ or (1♥) X: transfer, 4+♠
+- 1♠: transfer to 1NT, partly ask for stopper
+- 2♣: transfer, 5+♦
+- 2♠: transfer, 5+♣
+
+We somehow ignore the meaning of overcalls to deal with artificial and psychic
+bids.  If we need to keep the bidding open, the nebulous 1♠ gets the job done.
+
+This competitive Transfer Walsh is the **Cachalot** (O. Bessis, *Le Bridgeur*
+852, 2011; Soulet--Voldoire, 909, 2017), which I also play over the
+[Polish Club][cachalot].  Unlike the uncontested transfers, the free bids are
+constructive, 6+, so opener need not keep a broke responder low:
+
+- The 1M completion promises exactly 3-card support, 11--17, like a
+  support double.  A balanced minimum with a doubleton no longer completes.
+- 1NT is a balanced minimum, 12--14, with a stopper.  The balanced 18--20
+  bids 2NT, also with a stopper.
+- The cuebid is the 18--20 raise of [the uncontested 2♦](1R.md#after-2).
+
+[cachalot]: https://polish.club/1C/Competition.html
+
+## Over (X)
+
+Natural notrump is not very useful after a double, so let's also use it for
+transfers.  Then 1♠ takes care of diamonds, the only suit left over.  With
+0--5, responder passes or preempts.
+
+| 1♣ (X) | |
+|------|-|
+| XX   | 10+, 0--3♠, 0--3♥
+| 1♦!  | TRF, 6+, 4+♥
+| 1♥!  | TRF, 6+, 4+♠
+| 1♠!  | TRF, 6+, 5+♦
+| 1NT! | TRF, 6+, 5+♣
+| 2♣   | PRE, 0--7, 5+♣
+| 2x   | PRE, 0--7, 6+#
+| 2NT! | TRF: (PRE, 7+♣) or (FG, 6+♣)
+| 3♣!  | TRF: (PRE, 7+♦) or (FG, 6+♦)
+| 3♦!  | TRF: (PRE, 7+♥) or (FG, 6+♥)
+| 3♥!  | TRF: (PRE, 7+♠) or (FG, 6+♠)
+
+## Over (1♦)
+
+Transferring to diamonds is not very useful, so 2♣ falls back to a single raise.
+
+| 1♣ (1♦) | |
+|-----|-|
+| X!  | TRF, 6+, 4+♥
+| 1♥! | TRF, 6+, 4+♠
+| 1♠! | TRF to 1NT, 8+, 0--3♠, 0--3♥
+| 1NT | NAT, 8--10
+| 2♣  | NF, 5--9, 5+♣
+| 2♦! | TRF, 6+♥
+| 2♥! | TRF, 6+♠
+| 2♠! | TRF, 10+, 5+♣
+| 2NT | NAT INV, 10--11
+| 3♣  | PRE, 6+♣
+| 3♦! | TRF: (PRE, 7+♥) or (FG, 6+♥)
+| 3♥! | TRF: (PRE, 7+♠) or (FG, 6+♠)
+
+## Over (1♥)
+
+Transferring to hearts is not very useful, so 2♦ falls back to a negative free
+bid.
+
+| 1♣ (1♥) | |
+|-----|-|
+| X!  | TRF, 6+, 4+♠
+| 1♠! | TRF to 1NT, 8+, 0--3♠
+| 1NT | NAT, 8--10
+| 2♣! | TRF, 10+, 5+♦
+| 2♦  | NF, 5--9, 6+♦
+| 2♥! | TRF, 6+♠
+| 2♠! | TRF, 10+, 5+♣
+| 2NT | NAT INV, 10--11
+| 3♣  | PRE, 6+♣
+| 3♦  | PRE, 7+♦
+| 3♥! | TRF: (PRE, 7+♠) or (FG, 6+♠)
+
+## Over (1♠)
+
+Transferring to spades is not very useful, so 2♥ falls back to a negative free
+bid.
+
+| 1♣ (1♠) | |
+|-----|-|
+| X   | NEG, 6+, (4--5♥ or BAL FG)
+| 1NT | NAT, 8--10
+| 2♣! | TRF, 10+, 5+♦
+| 2♦! | TRF, 10+, 5+♥
+| 2♥  | NF, 5--9, usually 6+♥
+| 2♠! | TRF, 10+, 5+♣
+| 2NT | NAT INV, 10--11
+| 3♣  | PRE, 6+♣
+| 3♦♥ | PRE, 7+#
+
+## Over (1NT)
+
+The overcall is a strong notrump, so responder bids naturally.
+
+| 1♣ (1NT) | |
+|------|-|
+| X    | PEN, 9+
+| 2♣   | NF, 5+♣
+| 2♦♥♠ | NF, 5+#
+
+## Over (2♣+)
+
+Double is negative.  New suits are natural and forcing, and 2NT is natural
+and invitational with a stopper.
+
+## Opener's rebids
+
+### After XX
+
+The key feature of XX is to start penalty process.  Our further doubles are
+penalty rather than takeout.
+
+| 1♣ (X) XX - | |
+|------|-|
+| P    | 5+♣
+| 1♦♥♠ | NAT, 4+#
+| 1NT  | BAL 12--14, 2--3♣
+| 2♣   | 11--14, 6+♣
+| 2♦♥♠ | REV, 16--20, 4+#, 5+♣
+| 2NT  | BAL 18--20
+| 3♣   | 15--17, 6+♣
+| 3NT  | 18--20, SOL 6+♣
+
+### After a transfer to 1M
+
+One step below 1M, including the stolen X, is a transfer to 1M.  Bid as if
+[1♣ - 1R](1R.md) most of the time, with the three changes above.  Over (1♥),
+opener gets two cuebids: 2♦ stays the raise, and 2♥ takes the 18--20 hands
+with neither support nor a stopper.  Over (1♦), the 2♦ raise takes those
+too.
+
+| 1♣ (1♦) X - | |
+|-----|-|
+| 1♥  | 11--17, 3=♥
+| 1♠  | 11--17, 4+♠, 0--2♥
+| 1NT | BAL 12--14, 0--2♥, stop
+| 2♣  | 11--17, 5+♣, 0--3♠, 0--2♥
+| 2♦! | 18--20, (3+♥ or no stop)
+| 2♥  | 11--14, 4+♥
+| 2♠  | 18--20, 4+♠, 5+♣, 0--2♥
+| 2NT | 18--20, 0--2♥, stop
+| 3♣  | 15--17, 6+♣, 0--2♥
+| 3♥  | 15--17, 4+♥
+| 3NT | 18--20, SOL 6+♣, 0--2♥
+
+| 1♣ (1♥) X - | |
+|-----|-|
+| 1♠  | 11--17, 3=♠
+| 1NT | BAL 12--14, 0--2♠, stop
+| 2♣  | 11--17, 5+♣, 0--2♠
+| 2♦! | 18--20, 3+♠
+| 2♥! | 18--20, 0--2♠, no stop
+| 2♠  | 11--14, 4+♠
+| 2NT | 18--20, 0--2♠, stop
+| 3♣  | 15--17, 6+♣, 0--2♠
+| 3♠  | 15--17, 4+♠
+| 3NT | 18--20, SOL 6+♣, 0--2♠
+
+Over the 2♦ raise, responder describes as [after the uncontested
+2♦](1R.md#after-2).  The 0--5 signoff is idle, since the free bid promised 6+.
+
+After the completion or 1NT, responder rebids by
+[Checkback Gladiator](1R/CheckbackGladiator.md) as after the uncontested
+completion, since opener is minimum either way.  The cuebid 2♦ is still the
+game-forcing checkback.
+
+### After the negative double
+
+This is the only 1-level X response not a stolen transfer.  It is more urgent
+to find 4-4 heart fits than to transfer to 1NT.  There is no 1-level
+completion, so the 2♥ raise takes the 3-card support.
+
+| 1♣ (1♠) X - | |
+|-----|-|
+| 1NT | BAL 12--14, 0--2♥, stop
+| 2♣  | 11--17, 5+♣, 0--2♥
+| 2♦! | 18--20, 3+♥
+| 2♥  | (11--17, 3=♥) or (11--14, 4+♥)
+| 2♠! | 18--20, 0--2♥, no stop
+| 2NT | 18--20, 0--2♥, stop
+| 3♣  | 15--17, 6+♣, 0--2♥
+| 3♥  | 15--17, 4+♥
+| 3NT | 18--20, SOL 6+♣, 0--2♥
+
+### After minor suit transfers over (X)
+
+Only after (X) 1♠, the transfer to diamonds, is opener's 2♦ natural.
+
+| 1♣ (X) 1♠! - | |
+|-----|-|
+| 1NT | BAL 12--14
+| 2♣  | 11--17, 5+♣, 0--2♦
+| 2♦  | 11--17, 3+♦
+| 2NT | BAL 18--20
+| 3♦  | 18--20, 4+♦
+
+| 1♣ (X) 1NT! - | |
+|-----|-|
+| 2♣  | 11--17
+| 2♦! | UNBAL 18--20
+| 2NT | BAL 18--20
+
+### After a transfer to 1NT
+
+Opener bids 1NT with a stopper and 12--14, or otherwise rebids as over the
+uncontested [1♠](1S.md).  The cuebid replaces 2NT with 18--20 but no stopper.
