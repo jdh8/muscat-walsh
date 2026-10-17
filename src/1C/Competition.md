@@ -23,7 +23,9 @@ constructive, 6+, so opener need not keep a broke responder low:
   support double.  A balanced minimum with a doubleton no longer completes.
 - 1NT is a balanced minimum, 12--14, with a stopper.  The balanced 18--20
   bids 2NT, also with a stopper.
-- The cuebid is the 18--20 raise of [the uncontested 2♦](1R.md#after-2).
+- The cuebid 2♦ is an artificial 18--20 raise rather than a reverse.
+- 3NT still promises solid clubs.  Other 18--20 hands with 6+♣ bid 2NT with a
+  stopper, or cuebid without.
 
 [cachalot]: https://polish.club/1C/Competition.html
 
@@ -138,7 +140,7 @@ penalty rather than takeout.
 ### After a transfer to 1M
 
 One step below 1M, including the stolen X, is a transfer to 1M.  Bid as if
-[1♣ - 1R](1R.md) most of the time, with the three changes above.  Over (1♥),
+[1♣ - 1R](1R.md) most of the time, with the changes above.  Over (1♥),
 opener gets two cuebids: 2♦ stays the raise, and 2♥ takes the 18--20 hands
 with neither support nor a stopper.  Over (1♦), the 2♦ raise takes those
 too.
@@ -170,8 +172,21 @@ too.
 | 3♠  | 15--17, 4+♠
 | 3NT | 18--20, SOL 6+♣, 0--2♠
 
-Over the 2♦ raise, responder describes as [after the uncontested
-2♦](1R.md#after-2).  The 0--5 signoff is idle, since the free bid promised 6+.
+Over the 2♦ raise, responder describes as in [Odwrotka][odw] with the roles
+swapped: opener made the fit reverse, so responder describes.  The free bid
+promised 6+, so there is no weak signoff.  The 6+M rows show 8+, since weaker
+hands bid the suit directly.
+
+[odw]: https://polish.club/1C/1M/2D.html
+
+| 1♣ (1x) TRF -<br>2♦ - | M = TRF + 1 |
+|------------|---|
+| 2♠!        | 6+, 4=M, no 5+ side suit
+| 2NT!       | 6+, UNBAL 5=M
+| 3♣♦        | 6+, 5+#, 4=M
+| 3M         | 6+, BAL 5=M
+| 3NT!       | 8+, 6+M, no SPL
+| 3OM!, 4♣♦! | 8+, SPL, 0--1#, 6+M
 
 After the completion or 1NT, responder rebids by
 [Checkback Gladiator](1R/CheckbackGladiator.md) as after the uncontested

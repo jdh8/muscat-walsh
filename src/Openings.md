@@ -7,8 +7,7 @@
 | 1♥♠ | 11--20, 5+#
 | 1NT | 15--17, 2--5♠, 2--5♥, 2--6♦, 2--6♣
 
-With 4-4 in the minors, open 1♦.  Also open 1♦ with 11--17, 4+♦, 5=♣
-unless the hand fits 1NT.
+With 4-4 in the minors, open 1♦.  Also open 1♦ with 11--14, 4+♦, 5=♣.
 
 ## The notrump ladder
 
