@@ -7,7 +7,11 @@
 | 1♥♠ | 11--20, 5+#
 | 1NT | 15--17, 2--5♠, 2--5♥, 2--6♦, 2--6♣
 
-With 4-4 in the minors, open 1♦.  Also open 1♦ with 11--14, 4+♦, 5=♣.
+## Choice between minor suits
+
+- By default, open the longer minor, or 1♦ with equal length.
+- Open 1♦ with 11--14, 4+♦, 5=♣.
+- Open 1♣ with 18--20, balanced 4=♦.
 
 ## The notrump ladder
 
