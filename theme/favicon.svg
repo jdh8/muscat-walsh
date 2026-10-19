@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="1.17 -0.81 37.67 37.67">
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="1.17 -0.81 37.67 37.67">
   <!-- stalk stub only; it disappears into the cluster -->
   <path fill="none" stroke="#4f7a1f" stroke-width="4" stroke-linecap="butt" d="M20,0.5 Q19,8 20,20"/>
   <!-- overlapping grapes, back to front, so no forks show -->
