@@ -24,7 +24,7 @@ checkback.  Natural 2M are invitations, and 3x are slam tries.
 | 2♦!  | FG CB
 | 2♥!  | INV, 5+♥
 | 2♠!  | INV, 4=♠, 5+♥
-| 2NT! | TRF, (PRE or FG), 6+♣
+| 2NT! | TRF, PRE or FG, 6+♣
 | 3♣♦  | S/T, 5+#, 5+♥
 | 3♥   | S/T, 6+♥
 | 4♥   | S/O
@@ -36,7 +36,7 @@ checkback.  Natural 2M are invitations, and 3x are slam tries.
 | 2♦!  | FG CB
 | 2♥!  | INV, 4+♥, 5+♠
 | 2♠!  | INV, 5+♠
-| 2NT! | TRF, (PRE or FG), 6+♣
+| 2NT! | TRF, PRE or FG, 6+♣
 | 3♣♦♥ | S/T, 5+#, 5+♠
 | 3♠   | S/T, 6+♠
 | 4♠   | S/O
@@ -111,7 +111,7 @@ opener shows support rather than a maximum, since 1NT is a single range.
 | 2♦!      | FG CB
 | 2♥!      | INV, 5+♥
 | 2♠!      | INV, 4=♠
-| 2NT!     | TRF, (PRE or FG), 6+♣
+| 2NT!     | TRF, PRE or FG, 6+♣
 | 3♣♦      | S/T, 5+#, 5+♥
 | 3♥       | S/T, 6+♥
 | 3♠!      | SPL, 0--1♠, 6+♥
@@ -127,7 +127,7 @@ opener shows support rather than a maximum, since 1NT is a single range.
 | 2♦!      | FG CB
 | 2♥!      | INV, 4+♥, 5+♠
 | 2♠!      | INV, 5+♠
-| 2NT!     | TRF, (PRE or FG), 6+♣
+| 2NT!     | TRF, PRE or FG, 6+♣
 | 3♣♦♥     | S/T, 5+#, 5+♠
 | 3♠       | S/T, 6+♠
 | 3NT      | 6--9, 4=♠
