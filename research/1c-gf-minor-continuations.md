@@ -51,7 +51,7 @@ variant, 2M = 17+.**
 | WJ 2020 | 1♣–2♣–2♥–2♠–? | 2BA “12-14; z zatrzymaniem karo, bez czterech pików”; 3♣ “12-14; 3+ trefle”; 3♥ “18+; 5+ kierów”; 3♠ “12+; 4 piki bez zatrzymania karo”; 3BA “12-14; 4 piki z zatrzymaniem karo”. “Licytacja po odpowiedzi 2♦ przebiega według analogicznych zasad.” [The same applies after 2♦.] | [p. 49](https://web.archive.org/web/20260129184409/https://jassem.pl/wp-content/uploads/2019/12/wj2020-25-59.pdf#page=25) |
 | Miszewska–Zawiślak (POL), 2022–23 | 1♣–2♣ (“5+♣ GF”) | “1♣ - 2♣ - 2♦ = week”; “1♣ - 2♣ - 2♥/♠ = 17+ , 5+♥/♠”. 1♣ = “11–14 v18–20 bal”, “14+ 4+♣ unbal”. | [TSC card, PDF p. 2](https://r.pzbs.pl/2022/tsc/web/CC/CC%20POL%20Bochenski%20Miszewska-Zawislak.pdf#page=2) |
 | Miłaszewski–Szenberg (POL), 2024 | 1♣–2♣ (“5+♣/♦, GF”) | “1♣-2♣-2♦ = 16+PC with ♣ fit” | [TSC card, PDF p. 2](https://r.pzbs.pl/2024/tsc/web/CC/24_CC_POL_Bochenski%20Milaszewski-Szenberg.pdf#page=2) |
-| Bridge World Standard 2017 | 1♦–2♣ (GF) | “a two-level reverse or a non-jump three-level new-suit bid shows extra strength, but two notrump or a single raise may be based on a minimum hand.” “Opener's reverse of the form one diamond — two clubs — two of a major does not promise extra values and is ambiguous as to diamond length.” | [§IV.G–H (archive)](https://web.archive.org/web/20241228105810/https://www.bridgeworld.com/pages/readingroom/bws/bwscompletesystem.html#IVH) |
+| Bridge World Standard 2017 | 1♦–2♣ (GF) | “a two-level reverse or a non-jump three-level new-suit bid shows extra strength, but two notrump or a single raise may be based on a minimum hand.” “Opener's reverse of the form one diamond — two clubs — two of a major does not promise extra values and is ambiguous as to diamond length.” | [§IV.G–H](https://bridgeworld.store/pages/readingroom/bws/bwscompletesystem.html#IVH) |
 
 Fallenius–Welland (1♣–2♦ “GF, 5+suit, like 2/1 but w/o 4-card major”) and
 Walsh–Goodman (“2♦ 12+ 5+♦ GF”) give no continuations.
@@ -77,7 +77,7 @@ Yadlin–Orenshtein, Moraes–Santos). 3NT is usually the strong balanced hand.*
 | Vogt–Fresen (DEU) | inverted | “Farbreizung zeigt Stopper nach inverted” [a suit bid shows a stop] | [TSC 2022, p. 2](https://r.pzbs.pl/2022/tsc/web/CC/CC%20DEU%202%20Vogt-Fresen.pdf#page=2) |
 | Yadlin–Orenshtein (ISR), 1♣ 2+ | “2C=10+Fit” | “stopers after inverted” | [TSC 2023, p. 2](https://r.pzbs.pl/2023/tsc/web/CC/CC%20ISR%20Yadlin-Orenshtein.pdf#page=2) |
 | Moraes–Santos (PRT) | “1m-2m= 11+ points” | “1m-2m-2M=honour(s)”, “Jump= splinter” | [TSC 2021, p. 2](https://r.pzbs.pl/2021/tsc/web/CC/CC%20PRT%20CBL%20Moraes-Santos.pdf#page=2) |
-| Bridge World Standard | 1m–2m, INV+ | “(1) show willingness to play in three of his minor by bidding it; (2) bid two notrump natural (but the bidding is forced to three of the minor); or (3) bid a new suit” | [§IV.H (archive)](https://web.archive.org/web/20241228105810/https://www.bridgeworld.com/pages/readingroom/bws/bwscompletesystem.html#IVH) |
+| Bridge World Standard | 1m–2m, INV+ | “(1) show willingness to play in three of his minor by bidding it; (2) bid two notrump natural (but the bidding is forced to three of the minor); or (3) bid a new suit” | [§IV.H](https://bridgeworld.store/pages/readingroom/bws/bwscompletesystem.html#IVH) |
 
 ### Artificial GF responses with no major
 
@@ -125,7 +125,7 @@ stopper and is nonforcing.”
 | Molenaar–Verbeek | “4m+1 is asking aces, first bid min, 1/3, 2 and 2 with queen, if we have m / And only two steps, we reverse meaning first two bids.” “4m shows minimum hand if minor fit” | [NBB card, PDF p. 3](https://www.bridgebond.nl/download.php?file=Wedstrijdzaken%2FSysteemkaarten%2FMK2526%2FNETH_OPEN_Molenaar_Verbeek+version+without+convention+names.pdf#page=3) |
 | Goodman–Short | “4m bids in stromg [sic] sequences are RKC” | [TSC 2021, p. 2](https://r.pzbs.pl/2021/tsc/web/CC/CC%20SCT%20BLUE%20Goodman-Short.pdf#page=2) |
 | Ferrari–Murdoch | “Deadwood ( RKC for minors )” | [TSC 2023, p. 3](https://r.pzbs.pl/2023/tsc/web/CC/CC%20SCT%20BLUE%20Ferrari-Murdoch_v2.pdf#page=3) |
-| Bridge World Standard | Key-card asks are 4NT. No minor-specific asking bid is defined. | [§III (archive)](https://web.archive.org/web/20241228105810/https://www.bridgeworld.com/pages/readingroom/bws/bwscompletesystem.html#III) |
+| Bridge World Standard | Key-card asks are 4NT. No minor-specific asking bid is defined. | [§III](https://bridgeworld.store/pages/readingroom/bws/bwscompletesystem.html#III) |
 
 ## Not verified
 
